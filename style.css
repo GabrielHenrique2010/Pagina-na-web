@@ -5,7 +5,6 @@ body {
    font-family: "Roboto", sans-serif
 }
 
-
 header{
   border: solid 2px  rgb(42, 122, 228);
   padding: 20px;
@@ -23,4 +22,12 @@ header{
 
 .chamada-texto {
    margin-right: 5;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
 }
